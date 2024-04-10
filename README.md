@@ -9,11 +9,18 @@
 
 A regra para o armazenamento dos arquivos nas pastas, é realizada conforme as extensões dos arquivos:
 
-"Documents": [".pdf", ".doc", ".docx", ".txt", ".xlsx", ".pptx"],
-"Images": [".jpg", ".jpeg", ".png", ".gif"],
-"Videos": [".mp4", ".mov", ".avi"],
-"Audios": [".mp3", ".wav"],
-"Archives": [".zip", ".rar", ".tar", ".gz"],
-"Scripts": [".py", ".sh", ".bat"],
+"Documents": [".pdf", ".doc", ".docx", ".txt", ".xlsx", ".pptx"]
+
+"Images": [".jpg", ".jpeg", ".png", ".gif"]
+
+"Videos": [".mp4", ".mov", ".avi"]
+
+"Audios": [".mp3", ".wav"]
+
+"Archives": [".zip", ".rar", ".tar", ".gz"]
+
+"Scripts": [".py", ".sh", ".bat"]
+
 "Others": []  # Default folder for other file types
+
     
