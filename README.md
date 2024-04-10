@@ -2,7 +2,9 @@
  Automatic file organizer
 
  Ao executar o pacote main.py, será solicitado o caminho que você deseja fazer a "Organização dos Seus Arquivos".
+ 
  Você pode utilizar, por exemplo, o caminho da pasta de downloads: C:\Users\<user>\Downloads. 
+ 
  Após passar o caminho da pasta será criado pastas, no mesmo caminho de diretório informado, onde conterá os arquivos na sua devida pasta.
 
  # Regra para a organização dos arquivos nas pastas
